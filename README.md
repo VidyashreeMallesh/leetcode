@@ -27,3 +27,7 @@ Each input has exactly one solution, that is same element should not be used twi
 ## Problem 5: Valid Parentheses
 **Problem description:** Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 - [Solution](./valid_parentheses.py)
+
+## Problem 6: Median of Two Sorted Arrays
+**Problem description:** Given two sorted arrays nums1 and nums2 of size m and n respectively, return the median of the two sorted arrays.
+- [Solution](./median_of_2_sorted_arrays.py)
