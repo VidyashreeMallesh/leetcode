@@ -31,3 +31,8 @@ Each input has exactly one solution, that is same element should not be used twi
 ## Problem 6: Median of Two Sorted Arrays
 **Problem description:** Given two sorted arrays nums1 and nums2 of size m and n respectively, return the median of the two sorted arrays.
 - [Solution](./median_of_2_sorted_arrays.py)
+
+## Problem 7: Three Sum
+**Problem description:** Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i != k, and j != k, and nums[i] + nums[j] + nums[k] == 0.
+Note: Solution set must not contain duplicate triplets.
+- [Solution](./threesum.py)
