@@ -36,3 +36,11 @@ Each input has exactly one solution, that is same element should not be used twi
 **Problem description:** Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i != k, and j != k, and nums[i] + nums[j] + nums[k] == 0.
 Note: Solution set must not contain duplicate triplets.
 - [Solution](./threesum.py)
+
+## Problem 8: Remove element
+**Problem description:** Given an integer array nums and an integer val, remove all occurrences of val in nums in-place. The order of the elements may be changed. Then return the number of elements in nums which are not equal to val.
+- [Solution](./remove_element.py)
+
+## Problem 9: Remove Duplicates from Sorted Array
+**Problem description:** Given an integer array nums sorted in non-decreasing order, remove the duplicates in-place such that each unique element appears only once. The relative order of the elements should be kept the same. Then return the number of unique elements in nums.
+- [Solution](./remove_duplicates.py)
