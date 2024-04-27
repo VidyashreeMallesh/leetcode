@@ -44,3 +44,7 @@ Note: Solution set must not contain duplicate triplets.
 ## Problem 9: Remove Duplicates from Sorted Array
 **Problem description:** Given an integer array nums sorted in non-decreasing order, remove the duplicates in-place such that each unique element appears only once. The relative order of the elements should be kept the same. Then return the number of unique elements in nums.
 - [Solution](./remove_duplicates.py)
+
+## Problem 10: Remove Duplicates from Sorted Array II
+**Problem description:** Given an integer array nums sorted in non-decreasing order, remove some duplicates in-place such that each unique element appears at most twice. The relative order of the elements should be kept the same.
+- [Solution](./remove_duplicates2.py)
