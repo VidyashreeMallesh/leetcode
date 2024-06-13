@@ -34,7 +34,7 @@ solution_instance = Solution()
 nums = arr.array('i',[1,1,2,3,3,3])
 
 # Call the removeDuplicates method to remove duplicates from nums and get the new length of the array
-ans = solution_instance.removeDuplicates(nums)
+res = solution_instance.removeDuplicates(nums)
 
 # Print the new length of the array after removing duplicates
-print(ans)
+print(res)
