@@ -34,7 +34,7 @@ nums = [1, 2, 3, 2, 4]
 val = 2
 
 # Call the removeElement method to remove val from nums and get the new length of the array
-ans = solution_instance.removeElement(nums, val)
+res = solution_instance.removeElement(nums, val)
 
 # Print the new length of the array after removal
-print(ans)
+print(res)
