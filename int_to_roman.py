@@ -57,5 +57,5 @@ class Solution:
 # Test the function
 solution_instance = Solution()
 num = 54
-res = solution_instance.intToRoman(num)
-print(f"Roman form of {num} is {res}")
+ans = solution_instance.intToRoman(num)
+print(f"Roman form of {num} is {ans}")
