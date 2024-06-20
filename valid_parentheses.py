@@ -46,5 +46,5 @@ brackets = "()[]{}"
 print(solution_instance.isValid(brackets))  # Output: True
 
 # Test the function with another string containing brackets
-brackets = "([)]"
-print(solution_instance.isValid(brackets))  # Output: False
+brackets_1 = "([)]"
+print(solution_instance.isValid(brackets_1))  # Output: False
