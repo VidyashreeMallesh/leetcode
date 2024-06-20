@@ -16,7 +16,7 @@ solution_instance = Solution()
 str1 = "Hello world!"
 
 # Call the lastWord method to find the length of the last word in the string
-res = solution_instance.lastWord(str1)
+ans = solution_instance.lastWord(str1)
 
 # Print the length of the last word
-print(res)
+print(ans)
