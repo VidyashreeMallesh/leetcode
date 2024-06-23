@@ -55,5 +55,5 @@ solution_instance = Solution()
 
 # Test the function with a Roman numeral string
 roman_num = "LXXII"
-res = solution_instance.romanToInt(roman_num)
-print(f"Value of {roman_num} is {res}")
+ans = solution_instance.romanToInt(roman_num)
+print(f"Value of {roman_num} is {ans}")
