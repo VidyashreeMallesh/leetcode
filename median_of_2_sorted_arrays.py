@@ -31,7 +31,7 @@ nums1 = [2, 5, 7]
 nums2 = [1, 6, 9]
 
 # Find the median of the merged sorted arrays by calling the function
-res = solution_instance.findMedianSortedArrays(nums1, nums2)
+ans = solution_instance.findMedianSortedArrays(nums1, nums2)
 
 # Print the result
-print(f"Median is {res}")
+print(f"Median is {ans}")
