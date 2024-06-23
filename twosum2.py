@@ -33,6 +33,6 @@ solution_instance = Solution()
 nums = [4, 21, 10, 17]
 target = 14
 # Call the twoSum method with the list of numbers and target value
-result = solution_instance.twoSum(nums, target)
+res = solution_instance.twoSum(nums, target)
 # Print the indices of the two numbers that add up to the target
-print("Indices of the two numbers:", result)
+print("Indices of the two numbers:", res)
