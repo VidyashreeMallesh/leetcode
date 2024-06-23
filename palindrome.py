@@ -11,8 +11,8 @@ def ispalindrome(n):
         return False  # Return False if the number is not a palindrome
 
 
-res = ispalindrome(n)  # Call the ispalindrome function with the input number
-if res == True:  # Check if the result from ispalindrome is True
+ans = ispalindrome(n)  # Call the ispalindrome function with the input number
+if ans == True:  # Check if the result from ispalindrome is True
     print("Entered number is palindrome")  # Print message if the number is a palindrome
 else:
     print("Entered number is not palindrome")  # Print message if the number is not a palindrome
