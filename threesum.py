@@ -53,5 +53,5 @@ solution_instance = Solution()
 
 # Test the function with an example list of numbers
 nums = [-1,0,1,2,-1,-4]
-res = solution_instance.threeSum(nums)
-print(res)
+ans = solution_instance.threeSum(nums)
+print(ans)
