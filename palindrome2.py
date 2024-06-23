@@ -23,9 +23,9 @@ solution_instance = Solution()
 num = 1001  # Define the number to check for palindrome property
 
 # Call the isPalindrome method with the input number
-result = solution_instance.isPalindrome(num)
+res = solution_instance.isPalindrome(num)
 
-if result == True:  # Check if the result from isPalindrome is True
+if res == True:  # Check if the result from isPalindrome is True
     print("{} is a palindrome number".format(num))  # Print message if the number is a palindrome
 else:
     print("{} is not a palindrome number".format(num))  # Print message if the number is not a palindrome
